@@ -15,7 +15,7 @@
 <h1>Idea Presentation Link</h1>
 [Donation Website Ppt.pptx](https://github.com/dvverma03/Let-sDonate/files/11271433/Donation.Website.Ppt.pptx)
 <h1>Prototype Link</h1>
-<a href="letsdonate.netlify.app">Visit Website </a><br>
+<a href="https://letsdonate.netlify.app/">Visit Website </a><br>
 <a href="https://github.com/Chickisnak/letsDonate-1.git">Source Code</a>
 <h1>Team Details</h1>
 <p>Team Name:<b>Bro Code</b></p>
